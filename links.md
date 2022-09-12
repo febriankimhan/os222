@@ -5,11 +5,15 @@ permalink: LINKS/
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
-[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
+[LOG]({{ site.baseurl }/TXT/mylog.txt) ---
 [GITHUB]({{ site.githublink }})
 <br>
 <hr>
 
 # LINKS
 
-1. 
+<br>
+<hr>
+&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
+<hr>
+<br> 
