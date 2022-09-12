@@ -12,6 +12,10 @@ permalink: LINKS/
 
 # LINKS
 
+1. [Basic Linux Commands](d)<br>
+
+2. [Basic vi Commands](d)<br>
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
