@@ -12,9 +12,9 @@ permalink: LINKS/
 
 # LINKS
 
-1. [Basic Linux Commands](d)<br>
+1. [Basic Linux Commands](https://linuxopsys.com/topics/basic-linux-commands)<br>
 
-2. [Basic vi Commands](d)<br>
+2. [Basic vi Commands](https://www.cs.colostate.edu/helpdocs/vi.html)<br>
 
 <br>
 <hr>
