@@ -18,3 +18,9 @@ ZCZC W01 30 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W01 180 L11 Assignment #01
 ZCZC W01 10 L61 Install Virtual Box
 ZCZC W01 90 L62 Install and set up Virtual Debian Guest
+ZCZC W02 20 L01 SCeLe related
+ZCZC W02 220 L02 ZOOM meetings related
+ZCZC W02 60 L05 Quiz related including studying
+ZCZC W02 60 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W02 15 L08 OS Chat related with friends
+ZCZC W02 60 L12 Assignment #02
