@@ -12,6 +12,7 @@ permalink: LINKS/
 
 # LINKS
 
+## Week 01
 1. [Basic Linux Commands](https://linuxopsys.com/topics/basic-linux-commands)<br>
 This is a link to some of the most used Linux commands.
 It's pretty useful to get you started with Linux.
@@ -20,12 +21,18 @@ It's pretty useful to get you started with Linux.
 This is a concise docs of several vi commands.
 Like the first link, it's pretty useful when you're just starting editing some files with vi.
 
+## Week 02
 3. [Introduction to Nano Text Editor](https://itsfoss.com/nano-editor-guide/)<br>
 So, a friend of mine introduced me a text editor called Nano.
 He said that it's simpler than vi.
 But, the only reason that I like Nano better than vi is that I can copy text from outside of this editor and paste it here.
 So, if you have this problem, you can open up this link and learn Nano!
 It also has a cheatsheet at the bottom of the page, so it'll definitely helpful if you want to search for some commands later on.
+
+## Week 03
+4. [Fragmentation Explained](https://www.scaler.com/topics/what-is-fragmentation-in-os/)<br>
+Fragmentation is a problem in operating system related to processes and main memory usage.
+This link will explain in detail how this problem occur including several types of it, such as internal and external fragmentation.
 
 <br>
 <hr>
