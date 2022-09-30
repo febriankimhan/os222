@@ -31,3 +31,11 @@ ZCZC W03 30 L05 Quiz related including studying
 ZCZC W03 60 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W03 15 L08 OS chat related with friends
 ZCZC W03 60 L13 Assignment #03
+ZCZC W04 100 L00 Offline class
+ZCZC W04 15 L01 SCeLe related
+ZCZC W04 100 L02 ZOOM meetings related
+ZCZC W04 15 L05 Quiz related including studying
+ZCZC W04 120 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 30 L07 Demo related
+ZCZC W04 20 L08 OS chat with friends
+ZCZC W04 30 L14 Assignment #04

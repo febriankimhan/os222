@@ -34,6 +34,17 @@ It also has a cheatsheet at the bottom of the page, so it'll definitely helpful 
 Fragmentation is a problem in operating system related to processes and main memory usage.
 This link will explain in detail how this problem occur including several types of it, such as internal and external fragmentation.
 
+## Week 04
+5. [Pointers in C](https://www.youtube.com/watch?v=mw1qsMieK5c)<br>
+This is a video explaining about pointers in C language.
+It's a ten-minute video explaining about what pointer is and how to use it.
+The topic here is still basic yet explained pretty well and in detail.
+
+6. [Memory Management in OS](https://www.youtube.com/watch?v=qdkxXygc3rE)<br>
+It's basically this-week's course in 9 minutes.
+You'll learn about how memory is being used to handle multiple kind of tasks.
+It's pretty good if you're just starting or just want to review the topic.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
