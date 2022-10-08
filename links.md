@@ -45,6 +45,20 @@ It's basically this-week's course in 9 minutes.
 You'll learn about how memory is being used to handle multiple kind of tasks.
 It's pretty good if you're just starting or just want to review the topic.
 
+## Week 05
+7. [Virtual Memory](https://www.youtube.com/watch?v=2quKyPnUShQ)<br>
+This is a video explaining about virtual memory and how it works.
+It's eleven minutes long but it's pretty detailed about how it's stored and the process behind it
+
+8. [Optimal Page Replacement](https://youtu.be/DXU7SqsYDvg?t=487)<br>
+For a while, I can't seem to understand exactly how optimal page replacement works.
+After watching this video, I got full understanding about it and what it is best suited for.
+Although this video discusses two page replacement techniques (LRU and Optimal), I've set the link so you can immediately go to the optimal page replacement explanation.
+
+9. [Belady's Anomaly](https://www.geeksforgeeks.org/beladys-anomaly-in-page-replacement-algorithms/)<br>
+This link explains about what Belady's Anomaly that you possibly encounter in page replacement algorithms.
+It also explains about which algorithms it occurs the most or even impossible to occur.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
