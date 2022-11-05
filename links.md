@@ -59,6 +59,21 @@ Although this video discusses two page replacement techniques (LRU and Optimal),
 This link explains about what Belady's Anomaly that you possibly encounter in page replacement algorithms.
 It also explains about which algorithms it occurs the most or even impossible to occur.
 
+## Week 06
+10. [Process IDs in C](https://www.youtube.com/watch?v=PZrQ4eGm-hM)<br>
+Fork function basically creates a clone of the program it runs.
+But, there are also process ids which determines which process this id belongs to.
+This video explains it in a comprehensive yet very simple way.
+
+11. [wait() in C](https://www.youtube.com/watch?v=tcYo6hipaSA)<br>
+When we fork a program, it creates a duplicate of it and will run at the same time.
+This means that the output will be very messy and will almost always different than the previous times because both parent and child processes are trying to output the result at the process.
+wait() function is useful so that you can organize how the output will be shown from these processes.
+THis video explains what wait() function is and how to use it properly in a basic way.
+12. [Multitasking vs Multithreading vs Multiprocessing](https://www.youtube.com/watch?v=Tn0u-IIBmtc)<br>
+When you first heard it while learning OS, you feel like they're doing something in "multiple" way but not sure what differentiates one with another.
+This video explains these terms very nicely.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
