@@ -70,9 +70,19 @@ When we fork a program, it creates a duplicate of it and will run at the same ti
 This means that the output will be very messy and will almost always different than the previous times because both parent and child processes are trying to output the result at the process.
 wait() function is useful so that you can organize how the output will be shown from these processes.
 THis video explains what wait() function is and how to use it properly in a basic way.
+
 12. [Multitasking vs Multithreading vs Multiprocessing](https://www.youtube.com/watch?v=Tn0u-IIBmtc)<br>
 When you first heard it while learning OS, you feel like they're doing something in "multiple" way but not sure what differentiates one with another.
 This video explains these terms very nicely.
+
+## Week 07
+13. [Deadlock😈](https://www.youtube.com/watch?v=onkWXaXAgbY)<br>
+This is a short video about deadlock in OS.
+It explained what deadlock is and what conditions that can make deadlock to occur.
+
+14. [Is This Deadlock Prevention or Deadlock Avoidance?](https://www.geeksforgeeks.org/difference-between-deadlock-prevention-and-deadlock-avoidance/)<br>
+These terms are different but serve for the same purpose, which is to prevent (or avoid? 🤔) deadlock occurences.
+This website explained the differences between them and also has a comparison table which described their differences on various factors.
 
 <br>
 <hr>
