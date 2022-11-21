@@ -84,6 +84,19 @@ It explained what deadlock is and what conditions that can make deadlock to occu
 These terms are different but serve for the same purpose, which is to prevent (or avoid? 🤔) deadlock occurences.
 This website explained the differences between them and also has a comparison table which described their differences on various factors.
 
+## Week 08
+15. [SJF with Prediction of Burst Time](https://www.youtube.com/watch?v=6Ga42aZzKGw)<br>
+Shortest-Job-First (SJF) is one scheduling algorithm that gives out the best performance as it has the least average waiting time compared to other algorithms.
+The available processes are sorted based on their process length ascendingly.
+The problem is actual available processes are not given all at once, but changing dinamically.
+Then, we need to have the ability to predict the next cpu bursts.
+This video explains this topic very comprehensively and easy to understand.
+
+16. [Round Robin Algorithm](https://www.youtube.com/watch?v=-jFGYDfWkXI)<br>
+I didn't really understand about Round Robin algorithm in class.
+So, I searched for videos explaining about it.
+This video explained it really well.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
